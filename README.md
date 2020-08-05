@@ -1,10 +1,9 @@
-#  <#Title#>
-- This app is built by following the tutorial: [link](#https://segmentfault.com/a/1190000011319297)
+- This app is built by following the tutorial: [link](https://segmentfault.com/a/1190000011319297)
 
 ## summary
 > First of all, Using Xcode to build app, no matter for iOS or MacOS, the first basic knowledge is the 
 Swift language. without the understanding of Swift, it is difficult to continue building of app.
-The best tutorial for Swift is the official document, [link](#https://docs.swift.org), and here is a Chinese translation version[link](#https://swiftgg.gitbook.io/)
+The best tutorial for Swift is the official document, [link](https://docs.swift.org), and here is a Chinese translation version[link](https://swiftgg.gitbook.io/)
 
 > Then, after creating the app using one of the three interfaces for MacOS app, which is called Storyboard, you need to
 know how it works. Firstly, open the file under the project directory called `main.storyboard`, you can see the visable interface, including three parts: Application Scene, Window Controller Scene and View Controller Scene. From the left side of the Editor, the whole structure of  storyboard is shown clearly.
